@@ -1,4 +1,4 @@
-# workshop2024
+# workshop2024a
 FAECTOR Git workshop 2024
 
 Hello World.
